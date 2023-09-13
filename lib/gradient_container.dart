@@ -48,7 +48,7 @@ class GradientContainer extends StatelessWidget {
 //         ),
 //       ),
 //       child: const Center(
-//         child: TextContainer(' Watashiwa Nigga - Kun!! UWU'),
+//         child: TextContainer(' Hello '),
 //       ),
 //     );
 //   }
